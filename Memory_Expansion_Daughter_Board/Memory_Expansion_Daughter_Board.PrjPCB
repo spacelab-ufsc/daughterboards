@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SGNKWEDT
 
 [Document3]
 DocumentPath=Source\0_Architecture.SchDoc
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NUTCXEXY
 
 [Document7]
 DocumentPath=Source\Memory_Expansion_Daughter_Board.PcbDoc
