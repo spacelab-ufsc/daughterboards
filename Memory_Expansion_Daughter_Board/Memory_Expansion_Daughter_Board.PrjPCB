@@ -144,10 +144,14 @@ DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\1_Interface.REP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\Design Rule Check - Memory_Expansion_Daughter_Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.rep
 DItemRevisionGUID=
 
