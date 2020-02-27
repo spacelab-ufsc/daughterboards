@@ -82,7 +82,7 @@ AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -99,7 +99,7 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -116,7 +116,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -144,10 +144,14 @@ DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\1_Interface.REP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\Design Rule Check - Memory_Expansion_Daughter_Board.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.rep
 DItemRevisionGUID=
 
