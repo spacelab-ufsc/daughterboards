@@ -1,0 +1,8 @@
+# Altium output and version control files
+
+*.SchDocPreview
+__Previews/
+History/
+Project Logs for Memory_Expansion_Daughter_Board/
+Project Outputs for Memory_Expansion_Daughter_Board/
+*.LOG
