@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=4918e87a-9ed9-40f1-80bd-0736b415ef6f
 
 [Document2]
-DocumentPath=Multi_Board_Assembly_DB_obdh2.MbaDoc
+DocumentPath=Source\Multi_Board_Assembly_DB_obdh2.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=73996AF5751345548FAB84A9311D6F7D
+DocumentUniqueId=0F1BA0646ED6456D9499223A2BF8BCA6
 
 [Document3]
-DocumentPath=..\Memory_Expansion_Daughter_Board\Memory_Expansion_Daughter_Board.PrjPCB
+DocumentPath=..\Memory_Expansion_Daughter_Board.PrjPCB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb
+DocumentPath=..\..\..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=OneNote
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1073,4 +1073,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
