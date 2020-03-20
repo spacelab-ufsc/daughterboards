@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=E984AF45E49943ECA3116D2AAA272ADF
+DocumentUniqueId=1F9CC6A3B0884637BFB0C23E15B3F808
 
 [Document3]
-DocumentPath=..\Memory_Expansion_Daughter_Board.PrjPCB
+DocumentPath=..\..\..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb
+DocumentPath=..\DB_Memory.PrjPCB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
