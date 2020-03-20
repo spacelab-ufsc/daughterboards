@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Memory_Expansion_Daughter_Board
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SGNKWEDT
 
 [Document3]
+DocumentPath=Source\0_Architecture.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VSWKCHGV
+
+[Document4]
 DocumentPath=Source\1_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNYQFVNE
 
-[Document4]
+[Document5]
 DocumentPath=Source\2_Non_Volatile_Memories.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHJLKFDS
 
-[Document5]
+[Document6]
 DocumentPath=Source\3_Communication_Buffers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUTCXEXY
 
-[Document6]
+[Document7]
 DocumentPath=Source\Memory_Expansion_Daughter_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,6 +156,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IURPNWVX
 
+[Document8]
+DocumentPath=Output_files\Output Job File\DB_Memory.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\1_Interface.REP
 DItemRevisionGUID=
@@ -148,10 +182,14 @@ DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\Design Rule Che
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DocumentPath=Project Outputs for Free Documents\Export STEP\Memory_Expansion_Daughter_Board.step
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Libraries\Memory_Expansion_Daughter_Board_SchLib.rep
 DItemRevisionGUID=
 
@@ -164,6 +202,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Memory_Expansion_Daughter_Board
 
 [OutputGroup1]
 Name=Netlist Outputs
