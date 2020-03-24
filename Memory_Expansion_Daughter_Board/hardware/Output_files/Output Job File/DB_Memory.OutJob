@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=DB_Memory.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -38,7 +38,7 @@ OutputName1=Schematics
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -52,7 +52,7 @@ OutputName2=PCB Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
@@ -106,7 +106,7 @@ OutputName4=Assembly Drawings
 OutputCategory4=Assembly
 OutputDocumentPath4=
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=3
 OutputEnabled4_OutputMedium3=0
@@ -168,7 +168,7 @@ OutputName8=Bill of Materials
 OutputCategory8=Report
 OutputDocumentPath8=
 OutputVariantName8=
-OutputEnabled8=1
+OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=6
 OutputEnabled8_OutputMedium3=0
@@ -180,7 +180,7 @@ Configuration8_Item1=CaptionAsName
 Configuration8_Name2=Filter
 Configuration8_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration8_Name3=General
-Configuration8_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=Project Outputs for DB_Memory\BOM\BOM Template.xlsx|BatchMode=5|FormWidth=1600|FormHeight=789|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration8_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=True|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=Project Outputs for DB_Memory\BOM\BOM Template.xlsx|BatchMode=5|FormWidth=1600|FormHeight=789|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration8_Name4=GroupOrder
 Configuration8_Item4=Comment=True
 Configuration8_Name5=OutputConfigurationParameter1
@@ -192,13 +192,13 @@ Configuration8_Item7=FileName=[PCB Document 1]
 Configuration8_Name8=SortOrder
 Configuration8_Item8=Quantity=Down
 Configuration8_Name9=VisibleOrder
-Configuration8_Item9=Supplier 1=85|Supplier Part Number 1=148|Supplier 2=95|Supplier Part Number 2=140|Manufacturer=99|Comment=135|Description=195|Quantity=61|Designator=318
+Configuration8_Item9=Supplier 1=85|Supplier Part Number 1=148|Supplier 2=95|Supplier Part Number 2=140|Manufacturer=99|Comment=158|Description=187|Quantity=58|Designator=306
 OutputType9=PCB 3D Print
 OutputName9=PCB TOP Print
 OutputCategory9=Documentation
 OutputDocumentPath9=
 OutputVariantName9=
-OutputEnabled9=1
+OutputEnabled9=0
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=4
 OutputEnabled9_OutputMedium3=0
@@ -212,7 +212,7 @@ OutputName10=PCB BOTTON Print
 OutputCategory10=Documentation
 OutputDocumentPath10=
 OutputVariantName10=
-OutputEnabled10=1
+OutputEnabled10=0
 OutputEnabled10_OutputMedium1=0
 OutputEnabled10_OutputMedium2=5
 OutputEnabled10_OutputMedium3=0
@@ -221,11 +221,24 @@ OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
 Configuration10_Name1=OutputConfigurationParameter1
 Configuration10_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=25000001|ViewY=17125983|LookAtX=22539370|LookAtY=18602362|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.91650610653999E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ViewConfig=
+OutputType11=ODB
+OutputName11=ODB++ Files
+OutputCategory11=Fabrication
+OutputDocumentPath11=
+OutputVariantName11=
+OutputEnabled11=1
+OutputEnabled11_OutputMedium1=0
+OutputEnabled11_OutputMedium2=0
+OutputEnabled11_OutputMedium3=1
+OutputEnabled11_OutputMedium4=0
+OutputDefault11=0
+Configuration11_Name1=OutputConfigurationParameter1
+Configuration11_Item1=AddToAllLayerClasses.Set= |AddToAllPlots_3D Bodies=False|AddToAllPlots_ASM Top=False|AddToAllPlots_Board Outline=False|AddToAllPlots_Dimensions=True|AddToAllPlots_Mechanical 1=False|AddToAllPlots_Mechanical 10=False|AddToAllPlots_Mechanical 11=False|AddToAllPlots_Mechanical 12=False|AddToAllPlots_Mechanical 13=False|AddToAllPlots_Mechanical 14=False|AddToAllPlots_Mechanical 5=False|AddToAllPlots_Mechanical 6=False|AddToAllPlots_Mechanical 7=False|AddToAllPlots_Mechanical 8=False|AddToAllPlots_Mechanical 9=False|AddToAllPlots_Sheet=True|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=True|IncludeUnconnectedMidLayerPads=False|LayerClassesPlot.Set= |ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=True|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=True|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=False|PlotMechanical3Plot=False|PlotMechanical4Plot=True|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=False|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=False|PlotMidLayer30Plot=False|PlotMidLayer3Plot=False|PlotMidLayer4Plot=False|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|Record=ODBView
 
 [PublishSettings]
-OutputFilePath2=C:\Users\yanaz\OneDrive\햞ea de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for Memory_Expansion_Daughter_Board\OutputName\DB_Memory.PDF
-ReleaseManaged2=1
-OutputBasePath2=Project Outputs for Memory_Expansion_Daughter_Board
+OutputFilePath2=C:\Users\yanaz\OneDrive\햞ea de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for DB_Memory\ContainerName\DB_Memory.PDF
+ReleaseManaged2=0
+OutputBasePath2=Project Outputs for DB_Memory\
 OutputPathMedia2==ContainerName
 OutputPathMediaValue2==ContainerName
 OutputPathOutputer2=[Output Type]
@@ -302,7 +315,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\yanaz\OneDrive\햞ea de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for Memory_Expansion_Daughter_Board\OutputName\DB_Memory.PDF
+RelativeOutputPath2=C:\Users\yanaz\OneDrive\햞ea de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for DB_Memory\ContainerName\DB_Memory.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\yanaz\OneDrive\햞ea de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for DB_Memory\
 OpenOutputs3=1
