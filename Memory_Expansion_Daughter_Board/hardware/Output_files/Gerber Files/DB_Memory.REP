@@ -2,6 +2,17 @@
 FileName = DB_Memory.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Outline
+      File : DB_Memory.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : DB_Memory.GBS
 
@@ -23,53 +34,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DB_Memory.GTO
+Generating : Bottom Layer
+      File : DB_Memory.GBL
 
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DB_Memory.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
+    D12
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
 *************************************************************
 
 *************************************************************
@@ -134,14 +116,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : DB_Memory.GM2
+Generating : Top Paste
+      File : DB_Memory.GTP
 
-    Adding Layer      : Board Outline
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D12
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
 *************************************************************
 
 *************************************************************
@@ -180,23 +179,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : DB_Memory.GBL
+Generating : Top Overlay
+      File : DB_Memory.GTO
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
     D12
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
 *************************************************************
 

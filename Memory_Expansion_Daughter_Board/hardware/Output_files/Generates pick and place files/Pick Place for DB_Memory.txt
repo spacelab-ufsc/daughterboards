@@ -1,18 +1,18 @@
 Altium Designer Pick and Place Locations
-C:\Users\yanaz\OneDrive\Área de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Project Outputs for DB_Memory\Generates pick and place files\Pick Place for DB_Memory.txt
+C:\Users\yanaz\OneDrive\Área de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Output_files\Generates pick and place files\Pick Place for DB_Memory.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       24/03/20
-Time:       00:31
-Revision:   2e6731682443d7be8b118298f401f132f3cbd195
+Time:       11:13
+Revision:   b1981eea1afe6bc176454174e995acfa13b523fa
 Variant:    No variations
 Units used: mil
 
 Designator Comment                  Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                          
-J_V3       0R                       TopLayer 0805                     553.150       1145.669      180      "RES 0R OHM 1/16W JUMPER 0805"                                                       
-J_V2       0R                       TopLayer 0805                     1489.173      264.764       180      "RES 0R OHM 1/16W JUMPER 0805"                                                       
+J_V3       0R                       TopLayer 0805                     553.150       1145.669      180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
+J_V2       0R                       TopLayer 0805                     1489.173      264.764       180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
 M4         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      1563.976      0        "Mechanical Hole for DB board variants"                                              
 M3         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      146.654       0        "Mechanical Hole for DB board variants"                                              
 M2         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268       146.654       0        "Mechanical Hole for DB board variants"                                              
@@ -20,7 +20,7 @@ M1         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268   
 FD3        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      349.280       0        "Fiducial for DB board variants"                                                     
 FD2        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      1357.284      0        "Fiducial for DB board variants"                                                     
 FD1        Fiducial                 TopLayer FIDUCIAL_1.3MM           108.268       1357.284      0        "Fiducial for DB board variants"                                                     
-J_V1       0R                       TopLayer 0805                     311.000       1142.016      360      "RES 0R OHM 1/16W JUMPER 0805"                                                       
+J_V1       0R                       TopLayer 0805                     311.000       1142.016      360      "RES 0R OHM 1/8W JUMPER 0805"                                                        
 P1         FSI-110-03-G-D-AD        TopLayer MATING_FSI-110-03-G-D-AD 501.969       855.315       360      "CONN STACKING 20POS SMD GOLD"                                                       
 U2         SN74LVC125APWR           TopLayer SN74LVC125APWR           505.906       340.551       360      "IC BUF NON-INVERT 3.6V 14TSSOP"                                                     
 U1         MT25QL01GBBB8ESF-0SIT    TopLayer SOIC127P1032X265-16N     1920.276      389.764       360      "NOR Flash Serial-SPI 3V 1Gbit 1024M/512M/256M x 1bit/2bit/4bit 6ns 16-Pin SOP-II"   
