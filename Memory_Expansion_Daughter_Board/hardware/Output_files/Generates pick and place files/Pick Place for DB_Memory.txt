@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\Users\yanaz\OneDrive\Área de Trabalho\SpaceLab\FloripaSat-2\Hardware Development\daughter_boards_obdh2\Memory_Expansion_Daughter_Board\hardware\Output_files\Generates pick and place files\Pick Place for DB_Memory.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/03/20
+Time:       11:13
+Revision:   b1981eea1afe6bc176454174e995acfa13b523fa
+Variant:    No variations
+Units used: mil
+
+Designator Comment                  Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                          
+J_V3       0R                       TopLayer 0805                     553.150       1145.669      180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
+J_V2       0R                       TopLayer 0805                     1489.173      264.764       180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
+M4         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      1563.976      0        "Mechanical Hole for DB board variants"                                              
+M3         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      146.654       0        "Mechanical Hole for DB board variants"                                              
+M2         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268       146.654       0        "Mechanical Hole for DB board variants"                                              
+M1         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268       1563.976      0        "Mechanical Hole for DB board variants"                                              
+FD3        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      349.280       0        "Fiducial for DB board variants"                                                     
+FD2        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      1357.284      0        "Fiducial for DB board variants"                                                     
+FD1        Fiducial                 TopLayer FIDUCIAL_1.3MM           108.268       1357.284      0        "Fiducial for DB board variants"                                                     
+J_V1       0R                       TopLayer 0805                     311.000       1142.016      360      "RES 0R OHM 1/8W JUMPER 0805"                                                        
+P1         FSI-110-03-G-D-AD        TopLayer MATING_FSI-110-03-G-D-AD 501.969       855.315       360      "CONN STACKING 20POS SMD GOLD"                                                       
+U2         SN74LVC125APWR           TopLayer SN74LVC125APWR           505.906       340.551       360      "IC BUF NON-INVERT 3.6V 14TSSOP"                                                     
+U1         MT25QL01GBBB8ESF-0SIT    TopLayer SOIC127P1032X265-16N     1920.276      389.764       360      "NOR Flash Serial-SPI 3V 1Gbit 1024M/512M/256M x 1bit/2bit/4bit 6ns 16-Pin SOP-II"   
+SC1        "MicroSD Card Connector" TopLayer USD_CARD                 1909.449      1314.961      180      "MOLEX - 503182-1852 - Micro SD Normal UltraLowPro8CktEmbsTpPkg RoHS Compliant: Yes" 
+R15        10k                      TopLayer 0805                     1039.370      176.181       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R14        10k                      TopLayer 0805                     1039.370      273.622       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R13        10k                      TopLayer 0805                     1047.244      466.535       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R12        10k                      TopLayer 0805                     1667.323      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R11        10k                      TopLayer 0805                     1766.142      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R10        10k                      TopLayer 0805                     1864.960      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R9         10k                      TopLayer 0805                     1963.780      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R8         10k                      TopLayer 0805                     2062.598      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R7         10k                      TopLayer 0805                     2161.417      840.551       270      "RES 10K OHM 1/8W 1%  0805"                                                          
+R6         100k                     TopLayer 0805                     1041.339      370.079       0        "RES 100K OHM 1/8W 1% 0805"                                                          
+R5         10k                      TopLayer 0805                     1174.213      796.506       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R4         10k                      TopLayer 0805                     1172.244      619.094       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R3         10k                      TopLayer 0805                     1174.213      901.082       360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R2         10k                      TopLayer 0805                     1174.213      1108.268      360      "RES 10K OHM 1/8W 1%  0805"                                                          
+R1         330R                     TopLayer 0805                     642.717       1500.000      180      "RES 330R OHM 1/4W 1% 0805"                                                          
+P4         "HEADER 2x"              TopLayer HEADER_1X2               390.748       1439.961      0        "Conn Unshrouded Header HDR 2 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
+P3         "HEADER 3x"              TopLayer HEADER1X3                1327.756      1439.961      270      "Conn Unshrouded Header HDR 3 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
+P2         "HEADER 3x"              TopLayer HEADER1X3                947.835       1439.961      270      "Conn Unshrouded Header HDR 3 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
+D1         Orange                   TopLayer 0805-LED                 641.378       1603.347      360      "SMD Orange LED"                                                                     
+C3         0.1uF/25V                TopLayer C0805_MD                 746.063       440.945       270      "CAP CER 0.1UF 25V 10% X7R 0805"                                                     
+C2         4.7uF/25V                TopLayer C0805_MD                 1597.441      470.472       270      "CAP CER 4.7UF 25V 10% X7R 0805"                                                     
+C1         100nF/50V                TopLayer C0603_MD                 1500.984      464.764       270      "CAP CER 100nF 50V 0603 10%"                                                         

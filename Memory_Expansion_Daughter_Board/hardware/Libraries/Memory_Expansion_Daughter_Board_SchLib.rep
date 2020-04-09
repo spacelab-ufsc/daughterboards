@@ -1,0 +1,24 @@
+CSV text has been written to file : Memory_Expansion_Daughter_Board_SchLib.csv
+
+Library Component Count : 17
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+Cap_Cer_X7R_0.1uF_25V_0805CAP CER 0.1UF 25V 10% X7R 0805
+Cap_Cer_X7R_100nF_50V_0603CAP CER 100nF 50V 0603 10%
+Cap_Cer_X7R_4.7uF_25V_0805CAP CER 4.7UF 25V 10% X7R 0805
+Cap_Tant_SMD_10uF_10V_0805CAP Tantalum 10uF 10V 20% 0805
+FSI-110-03-G-D-AD   
+HEADER 2x           Conn Unshrouded Header HDR 2 POS 2.54mm Solder RA Thru-Hole Automotive Bulk
+HEADER 3x           Conn Unshrouded Header HDR 3 POS 2.54mm Solder RA Thru-Hole Automotive Bulk
+LED/G_0805          SMD Green LED
+LED/R_0603          SMD Orange LED
+MT25QL01GBBB8ESF-0SITIC FLASH 1GBIT 108MHZ 16SOIC
+MicroSD_Card_ConnectorMicroSD CARD Connector
+R0R_JUMPER_1/16W_0805RES 0R OHM 1/16W JUMPER 0805
+R100k_1%_1/8W_0805  RES 100K OHM 1/8W 1% 0805
+R10k_1%_1/8W_0805   RES 10K OHM 1/8W 1%  0805
+R330R_1%_1/4W_0805  RES 330R OHM 1/4W 1% 0805
+SN74LVC125APWR      IC BUF NON-INVERT 3.6V 14TSSOP
+TEST_POINT_2        Test point
