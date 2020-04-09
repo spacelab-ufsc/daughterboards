@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Multi_Board_Assembly_DB_obdh2.MbsDoc|Kind=Multi-board Schematic Module|Designator=DB_Memory_Expansion|Source=..\..\DB_Memory.PrjPCB
+Record=SubProject|SourceDocument=Multi_Board_Assembly_DB_obdh2.MbsDoc|ProjectPath=..\..\DB_Memory.PrjPCB
+Record=DiagramHierarchy|SourceDocument=Multi_Board_Assembly_DB_obdh2.MbsDoc|Kind=Multi-board Schematic Module|Designator=OBDH 2.0|Source=..\..\..\..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb
+Record=SubProject|SourceDocument=Multi_Board_Assembly_DB_obdh2.MbsDoc|ProjectPath=..\..\..\..\..\OBDH 2.0\hardware\OBDH_Eng_Model_2_ALT\OBDH_Eng_Model_2_ALT.PrjPcb

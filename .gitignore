@@ -51,10 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Altium unuseful files
+# Altium Related Files
 
-*.SchDocPreview
-Memory_Expansion_Daughter_Board/History/
-Memory_Expansion_Daughter_Board/__Previews/
-Project Logs for Memory_Expansion_Daughter_Board/
-*.LOG
+Schematic_Templates/__Previews
+Schematic_Templates/History
