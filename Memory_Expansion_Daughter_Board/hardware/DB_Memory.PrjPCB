@@ -173,6 +173,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IURPNWVX
 
+[Document9]
+DocumentPath=DB_Memory.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DB_Memory\Bill of Materials\Bill of Materials-DB_Memory.xlsx
 DItemRevisionGUID=
@@ -186,139 +203,139 @@ DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.DRR
+DocumentPath=Source\DB_Memory 19-04-2020 23-23-44.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.EXTREP
+DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBL
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBO
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBP
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBS
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GM2
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTL
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTO
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTP
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTS
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.LDP
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.REP
+DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\DB_Memory.REP
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.REP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.RUL
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\DB_Memory.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\user\DB_Memory.RUL
+DocumentPath=Project Outputs for DB_Memory\Gerber Files\DB_Memory.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DB_Memory\Export STEP\DB_Memory.step
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\user\DB_Memory.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.TXT
+DocumentPath=Project Outputs for DB_Memory\Export STEP\DB_Memory.step
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\Design Rule Check - DB_Memory.html
+DocumentPath=Project Outputs for DB_Memory\NC Drill Files\DB_Memory.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\3d_bodies\features
+DocumentPath=Project Outputs for Memory_Expansion_Daughter_Board\Design Rule Check - DB_Memory.html
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\asm_top\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\3d_bodies\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\asm_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\drill\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\matrix\matrix
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Export STEP\Memory_Expansion_Daughter_Board.step
+DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument38]
@@ -348,6 +365,22 @@ DItemRevisionGUID=
 [GeneratedDocument44]
 DocumentPath=Project Outputs for DB_Memory\ODB++ Files\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
+
+[Parameter1]
+Name=VersionRevision
+Value=V1.2
+
+[Parameter2]
+Name=Project
+Value=Memory Expansion Daughterboard
+
+[Parameter3]
+Name=Model
+Value=Test Model
+
+[Parameter4]
+Name=Drawer
+Value=Yan Castro de Azeredo
 
 [Configuration1]
 Name=Sources
@@ -944,6 +977,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
