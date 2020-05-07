@@ -4,22 +4,15 @@ C:\Users\yanaz\OneDrive\Área de Trabalho\SpaceLab\FloripaSat-2\Hardware Developm
 ========================================================================================================================
 File Design Information:
 
-Date:       20/04/20
-Time:       17:14
-Revision:   69edc2e31d664636a06197466ae938e4318c1979
+Date:       07/05/20
+Time:       11:24
+Revision:   9766026981563f5e819a5436b6ed8250d8452c93
 Variant:    No variations
 Units used: mil
 
 Designator Comment                  Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                          
 J_V2       0R                       TopLayer 0805                     553.150       1145.669      180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
 J_V3       0R                       TopLayer 0805                     1489.173      264.764       180      "RES 0R OHM 1/8W JUMPER 0805"                                                        
-M3         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      1563.976      0        "Mechanical Hole for DB board variants"                                              
-M4         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       2391.732      146.654       0        "Mechanical Hole for DB board variants"                                              
-M2         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268       146.654       0        "Mechanical Hole for DB board variants"                                              
-M1         "DB Mechanical Hole"     TopLayer DB_MECHANICAL_HOLE       108.268       1563.976      0        "Mechanical Hole for DB board variants"                                              
-FD3        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      349.280       0        "Fiducial for DB board variants"                                                     
-FD2        Fiducial                 TopLayer FIDUCIAL_1.3MM           2391.732      1357.284      0        "Fiducial for DB board variants"                                                     
-FD1        Fiducial                 TopLayer FIDUCIAL_1.3MM           108.268       1357.284      0        "Fiducial for DB board variants"                                                     
 J_V1       0R                       TopLayer 0805                     311.000       1142.016      360      "RES 0R OHM 1/8W JUMPER 0805"                                                        
 P2         FSI-110-03-G-D-AD        TopLayer MATING_FSI-110-03-G-D-AD 501.969       855.315       360      "CONN STACKING 20POS SMD GOLD"                                                       
 U1         SN74LVC125APWR           TopLayer SN74LVC125APWR           505.906       340.551       360      "IC BUF NON-INVERT 3.6V 14TSSOP"                                                     
@@ -39,11 +32,11 @@ R9         10k                      TopLayer 0805                     1174.213  
 R6         10k                      TopLayer 0805                     1172.244      619.094       360      "RES 10K OHM 1/8W 1%  0805"                                                          
 R8         10k                      TopLayer 0805                     1174.213      901.082       360      "RES 10K OHM 1/8W 1%  0805"                                                          
 R7         10k                      TopLayer 0805                     1174.213      1108.268      360      "RES 10K OHM 1/8W 1%  0805"                                                          
-R1         330R                     TopLayer 0805                     642.717       1500.000      180      "RES 330R OHM 1/4W 1% 0805"                                                          
+R1         330R                     TopLayer 0805                     646.535       1467.520      180      "RES 330R OHM 1/4W 1% 0805"                                                          
 P1         "HEADER 2x"              TopLayer HEADER_1X2               390.748       1439.961      0        "Conn Unshrouded Header HDR 2 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
 P4         "HEADER 3x"              TopLayer Header1x3                1327.756      1439.961      270      "Conn Unshrouded Header HDR 3 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
 P3         "HEADER 3x"              TopLayer Header1x3                947.835       1439.961      270      "Conn Unshrouded Header HDR 3 POS 2.54mm Solder RA Thru-Hole Automotive Bulk"        
-D1         Orange                   TopLayer 0805-LED                 641.378       1603.347      360      "SMD Orange LED"                                                                     
+D1         Orange                   TopLayer 0805-LED                 646.535       1570.866      360      "SMD Orange LED"                                                                     
 C1         0.1uF/25V                TopLayer C0805_MD                 656.352       575.787       360      "CAP CER 0.1UF 25V 10% X7R 0805"                                                     
 C3         4.7uF/25V                TopLayer C0805_MD                 1597.441      470.472       270      "CAP CER 4.7UF 25V 10% X7R 0805"                                                     
 C2         100nF/50V                TopLayer C0603_MD                 1500.984      464.764       270      "CAP CER 100nF 50V 0603 10%"                                                         
