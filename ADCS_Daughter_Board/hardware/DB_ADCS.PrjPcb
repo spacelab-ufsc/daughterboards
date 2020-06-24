@@ -381,6 +381,10 @@ DocumentUniqueId=SWCBTUNG
 DocumentPath=Project Outputs for DB_ADCS\Design Rule Check - DB_ADCS.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Sch_Library\PCB_DB_ADCS.cmp
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
