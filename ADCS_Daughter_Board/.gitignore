@@ -1,0 +1,7 @@
+# Altium Designer Output
+
+*.SchDocPreview
+hardware/History/
+hardware/Project Logs for PCB_OBDH_IMU_e_Magnetorquers/
+hardware/Project Logs for DB_ADCS/
+*.LOG
